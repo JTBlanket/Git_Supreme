@@ -1,3 +1,4 @@
+import com.sun.org.apache.xerces.internal.util.SynchronizedSymbolTable;
 
 public class DaMain {
 
@@ -16,6 +17,8 @@ public class DaMain {
 		System.out.println("GoodLuck, trying new GUI ");
 		System.out.println("Whew it works");
 		System.out.println("another GUI");
+		
+		System.out.println("Completed custom GUI for QA");
 
 	}
 

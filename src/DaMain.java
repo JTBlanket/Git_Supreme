@@ -5,6 +5,7 @@ public class DaMain {
 		System.out.println("Initial Build");
 		System.out.println("GoodLuck, trying new GUI ");
 		System.out.println("Whew it works");
+		System.out.println("another GUI");
 	}
 
 }
